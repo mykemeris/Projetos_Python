@@ -56,5 +56,5 @@ README.md: Documentação do projeto
 📃 Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se livre para usá-lo, modificá-lo e distribuí-lo!
 
-Desenvolvido com ❤️ por [Michael Meris]
+Desenvolvido por [Michael Meris]
 
